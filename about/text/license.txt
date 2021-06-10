@@ -6,9 +6,9 @@ This app is licensed under the
       <code style="text-align: center">
         Copyright (c) 2021 EasyMusic:
         <a
-          href="https://github.com/easy-music/easy-music.github.io"
+          href="https://github.com/easy-music/easy-music"
           target="_blank"
         >
-          https://github.com/easy-music/easy-music.github.io
+          https://github.com/easy-music/easy-music
         </a>
       </code>
