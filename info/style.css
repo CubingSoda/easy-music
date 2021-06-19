@@ -19,6 +19,7 @@ html {
 @media (pointer: none), (pointer: coarse) {
   #beethoven > #text {
     width: 80%;
+    font-size: 25px;
     margin: 0 auto;
   }
 }
