@@ -15,6 +15,14 @@ html {
   margin: 0 auto;
 }
 
+/* specific to mobile */
+@media (pointer: none), (pointer: coarse) {
+  #beethoven > #text {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
 #beethoven > h1 {
   text-align: center;
   padding-top: 50px;
