@@ -9,7 +9,7 @@ if (!localStorage.getItem("theme-color")) {
 }
 
 document.querySelectorAll("*").forEach((el) => {
-  if (!el.classList.contains("fas")) {
+  if (!el.classList.contains("far")) {
     el.style.fontFamily = localStorage.getItem("font-family-css");
     if (localStorage.getItem("font-family-plain") == "baloo-tammudu") {
       el.style.fontWeight = "100";
