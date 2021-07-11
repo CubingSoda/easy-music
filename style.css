@@ -26,6 +26,9 @@ body {
   padding-top: 20px;
   cursor: pointer;
   transition: 0.5s;
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
 }
 
 #title:hover {
@@ -49,6 +52,8 @@ body {
   cursor: pointer;
   justify-content: center;
   flex-direction: column;
+  text-decoration: none;
+  color: black;
 }
 
 footer {
@@ -88,6 +93,8 @@ footer {
   margin-top: auto;
 
   margin: 20px;
+
+  display: none;
 }
 
 @keyframes shake {
@@ -178,4 +185,8 @@ footer {
   #main-buttons > div {
     flex: 0;
   }
+}
+
+#page-switcher {
+  margin: 4px;
 }

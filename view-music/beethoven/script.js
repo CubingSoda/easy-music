@@ -12,7 +12,7 @@ function go_to_composer(composer_name) {
 var pieces = [
   [
     "../../img/display-img/beethoven-moonlight.jpg",
-    "../../sheet-music/beethoven-pathetique-pdf.pdf",
+    "../../sheet-music/beethoven-moonlight-pdf.pdf",
   ],
   [
     "../../img/display-img/beethoven-pathetique.jpg",
