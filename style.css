@@ -22,7 +22,7 @@ body {
 
 #title {
   text-align: center;
-  font-size: 45px;
+  font-size: 65px;
   padding-top: 20px;
   cursor: pointer;
   transition: 0.5s;
@@ -32,7 +32,7 @@ body {
 }
 
 #title:hover {
-  transform: scale(1.8);
+  transform: scale(1.5);
 }
 
 #main-buttons {
@@ -42,6 +42,7 @@ body {
   justify-content: center;
   align-items: center;
   padding-top: 35px;
+  height: 60vh;
 }
 
 #listen-to-music,
