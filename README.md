@@ -1,4 +1,4 @@
-# easy-music.github.io
+# EasyMusic
 
 Learn Music Easily!
 
