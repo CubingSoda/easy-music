@@ -339,21 +339,21 @@ var pieces = [
   [
     "../../img/display-img/ravel-bolero.jpg",
     "../../img/composer-img-no-name/ravel.jpg",
-    "../../audio/ravel-bolero-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/ravel-bolero-audio.mp3",
     "ravel-bolero",
     "Bolero",
   ],
   [
     "../../img/display-img/ravel-concerto-g.jpg",
     "../../img/composer-img-no-name/ravel.jpg",
-    "../../audio/ravel-concerto-g-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/ravel-concerto-g-audio.mp3",
     "ravel-concerto-g",
     "Piano Concerto in G Major",
   ],
   [
     "../../img/display-img/ravel-pavane.jpg",
     "../../img/composer-img-no-name/ravel.jpg",
-    "../../audio/ravel-pavane-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/ravel-pavane-audio.mp3",
     "Pavane pour une infante defunte (Pavane for a Dead Princess)",
   ],
 ];

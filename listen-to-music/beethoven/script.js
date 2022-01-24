@@ -367,7 +367,7 @@ var pieces = [
   [
     "../../img/display-img/beethoven-moonlight.jpg",
     "../../img/composer-img-no-name/beethoven.jpg",
-    "../../audio/beethoven-moonlight-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/audio/beethoven-moonlight-audio.mp3",
     "beethoven-moonlight",
     "Sonata Op. 27, No. 2 (Moonlight)",
   ],

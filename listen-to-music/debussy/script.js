@@ -52,17 +52,17 @@
 // var pieces = [
 //   [
 //     "../../img/display-img/debussy-clare-de-lune.jpg",
-//     "../../audio/debussy-clare-de-lune-audio.mp3",
+//     "https://github.com/CubingSoda/easy-music/raw/debussy-clare-de-lune-audio.mp3",
 //     "debussy-clare-de-lune",
 //   ],
 //   [
 //     "../../img/display-img/debussy-west-wind.jpg",
-//     "../../audio/debussy-west-wind-audio.mp3",
+//     "https://github.com/CubingSoda/easy-music/raw/debussy-west-wind-audio.mp3",
 //     "debussy-west-wind",
 //   ],
 //   [
 //     "../../img/display-img/debussy-la-mer.jpg",
-//     "../../audio/debussy-la-mer-audio.mp3",
+//     "https://github.com/CubingSoda/easy-music/raw/debussy-la-mer-audio.mp3",
 //     "debussy-la-mer",
 //   ],
 // ];
@@ -357,21 +357,21 @@ var pieces = [
   [
     "../../img/display-img/debussy-clare-de-lune.jpg",
     "../../img/composer-img-no-name/debussy.jpg",
-    "../../audio/debussy-clare-de-lune-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/debussy-clare-de-lune-audio.mp3",
     "debussy-clare-de-lune",
     "Third Movement of Suite bergamasque (Clare de Lune)",
   ],
   [
     "../../img/display-img/debussy-west-wind.jpg",
     "../../img/composer-img-no-name/debussy.jpg",
-    "../../audio/debussy-west-wind-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/debussy-west-wind-audio.mp3",
     "debussy-west-wind",
     "Seventh piece of the Book of Preludes (What the West Wind Saw)",
   ],
   [
     "../../img/display-img/debussy-la-mer.jpg",
     "../../img/composer-img-no-name/debussy.jpg",
-    "../../audio/debussy-la-mer-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/debussy-la-mer-audio.mp3",
     "debussy-la-mer",
     "La Mer L. 109, CD. 111 (The Sea)",
   ],
