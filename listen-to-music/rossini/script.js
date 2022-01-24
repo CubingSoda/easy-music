@@ -339,14 +339,14 @@ var pieces = [
   [
     "../../img/display-img/rossini-overture.jpg",
     "../../img/composer-img-no-name/rossini.jpg",
-    "https://github.com/CubingSoda/easy-music/raw/rossini-overture-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/audio/rossini-overture-audio.mp3",
     "rossini-overture",
     "William Tell Overture",
   ],
   [
     "../../img/display-img/rossini-barber.jpg",
     "../../img/composer-img-no-name/rossini.jpg",
-    "https://github.com/CubingSoda/easy-music/raw/rossini-barber-audio.mp3",
+    "https://github.com/CubingSoda/easy-music/raw/audio/rossini-barber-audio.mp3",
     "rossini-barber",
     "The Barber of Seville Overture",
   ],
